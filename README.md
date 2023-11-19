@@ -47,7 +47,7 @@ meeting deadlines.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on FrontEnd Developer  
+- 🔭 I’m currently working on FrontEnd development  
   
 
 - 🌱 I’m currently learning More In My field FrontEnd   
